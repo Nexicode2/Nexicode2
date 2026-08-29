@@ -32,7 +32,7 @@ Full Stack Developer • Python/Django Developer • Problem Solver
 
 <p align="center">
 
-<a href="https://linkedin.com/in/yourhandle">
+<a href="https://www.linkedin.com/in/anas-mukhtar-21676331a/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
